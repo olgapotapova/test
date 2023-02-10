@@ -14,7 +14,7 @@ var headerText = `<div class="menu-right-container">
                 <li><a href=DoAnna/game-test.html" class="lng-kuulamismäng">Kuulamismäng</a></li>
                 <li><a href="DoAnna/reviews.html" class="lng-tagasaside">Tagasaside</a></li>
                 <li><a href="DoAnna/contact.html" class="lng-kontakt">Kontakt</a></li>
-                <li><img src="/images/Pattern.svg" alt="Pattern from notes."></li>
+                <li><img src="images/Pattern.svg" alt="Pattern from notes."></li>
             </ul>
         </nav>
     </div>
